@@ -7,7 +7,7 @@ This GitHub repository includes SQL queries for cleaning and standardizing data 
     - Convert the "SaleDate" column to a standardized date format.
 
 2. Populate Property Address Data
-- Identify and update missing "PropertyAddress" values using related records.
+    - Identify and update missing "PropertyAddress" values using related records.
 
 4. Breaking out Address into Individual Columns
 - Split the "PropertyAddress" column into separate columns for "Address" and "City."
