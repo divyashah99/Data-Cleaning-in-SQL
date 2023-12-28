@@ -4,9 +4,9 @@ This GitHub repository includes SQL queries for cleaning and standardizing data 
 
 # Table of Contents
 1. Standardize Data Format
-  - Convert the "SaleDate" column to a standardized date format.
+    - Convert the "SaleDate" column to a standardized date format.
 
-2. Populate Property Address Data
+3. Populate Property Address Data
 - Identify and update missing "PropertyAddress" values using related records.
 
 3. Breaking out Address into Individual Columns
