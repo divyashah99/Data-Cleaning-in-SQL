@@ -3,13 +3,13 @@
 This GitHub repository includes SQL queries for cleaning and standardizing data from the Nashville Housing data. The aim is to enhance data quality and structure for improved analysis.
 
 # Table of Contents
-# Standardize Data Format
+1. Standardize Data Format
+- Convert the "SaleDate" column to a standardized date format.
 
-1. Convert the "SaleDate" column to a standardized date format.
-Populate Property Address Data
+2. Populate Property Address Data
+- Identify and update missing "PropertyAddress" values using related records.
 
-2. Identify and update missing "PropertyAddress" values using related records.
-Breaking out Address into Individual Columns
+3. Breaking out Address into Individual Columns
 
 Split the "PropertyAddress" column into separate columns for "Address" and "City."
 Change Y and N to Yes and No
